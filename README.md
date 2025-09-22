@@ -29,6 +29,6 @@ The player’s stats (attack, attack speed, movement speed, health) can be upgra
 ## Audio and UI Managers
 These Managers have not been used for much since the project is early in stage, in the future, both will be used as intended.
 
-##Optimization
+## Optimization
 For optimization, sprite batching is used to reduce draw calls and improve performance.
 In some areas of the game, a ticking system is used instead of the default Update() method to create less frequent updates. This approach is applied, for example, to UI updates and enemy behaviors.
