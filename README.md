@@ -1,5 +1,7 @@
 ## Tower Defense Game
 This is a 2.5D tower defense game where you defend your castle from swarming slimes. Good Luck!
+## Game Engine and Used Assets
+The project is built with Unity 6000.0.47f1 and contains imported assets designed for visual compensation. These assets are in the Imported Assets folder.
 
 ## Starting the Project
 I start every project by doing the general mechanics and ideas. Thus, it gets easy to move on.
